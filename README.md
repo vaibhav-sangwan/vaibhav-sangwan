@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Vaibhav Sangwan</h1>
 <h3 align="center">ML/DL enthusiast from India</h3>
 
-- 🔭 I’m currently working on [Imagine Keras](https://github.com/vaibhav-sangwan/imagine-keras)
+- I’m currently working on [Imagine Keras](https://github.com/vaibhav-sangwan/imagine-keras)
 
-- 🌱 I’m currently learning **Natural Language Processing**
+- I’m currently learning **Natural Language Processing**
 
-- 📫 How to reach me **sangwanvaibhav02@gmail.com**
+- How to reach me **sangwanvaibhav02@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
